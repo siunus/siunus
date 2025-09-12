@@ -32,10 +32,3 @@ Here are some ideas to get you started:
         <img height="16px" src="https://framerusercontent.com/images/b0TBFiJ8TKZCgDC97NLQ4y3qVJo.png"/> siunusdev.myr.id
     </a>
 </p>
-
-<p align="left">
-<a href="https://github.com/siunus">
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=siunus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=siunus&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
